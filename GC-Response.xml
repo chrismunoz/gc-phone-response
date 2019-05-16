@@ -1,0 +1,3 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Say voice="alice">Thanks for calling Ground Control.</Say><Pause length="1"/><Say voice="alice">This phone number does not receive incoming phone calls or text messages.</Say></Response><Pause length="1"/><Say voice="alice">Please contact your supervisor for additional information.</Say></Response><Pause length="1"/><Say voice="alice">Thank you, goodbye.</Say></Response>
